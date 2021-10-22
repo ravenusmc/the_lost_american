@@ -1,3 +1,7 @@
+<!-- Links for CSS -->
+<link rel="stylesheet" type="text/css" href="./assets/css/navbar.css">
+
+<!-- Navbar -->
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item" href="https://bulma.io">

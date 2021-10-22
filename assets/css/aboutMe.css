@@ -1,0 +1,38 @@
+/* The CSS in this file will be for the about me section */
+
+section {
+	margin: 100px 5% 100px 5%;
+}
+
+.title-fix {
+	font-weight: bold;
+	font-size: 2em;
+	text-transform: uppercase;
+}
+
+.background-section {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.image-div {
+	height: 400px;
+  background-image: url("../images/books_2.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.paragraph-fix {
+	padding-left: 5%;
+}
+
+.div-fix {
+	margin: 4% 10% 0 10%;
+	margin-top: 4%;
+}
+
+p {
+	line-height: 1.5;
+	letter-spacing: normal;
+}
