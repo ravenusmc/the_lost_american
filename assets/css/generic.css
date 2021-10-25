@@ -1,7 +1,14 @@
+/* The CSS in this file will be used throughout the application as well as on the index.php page */
+
 .center {
 	text-align: center;
 }
 
 font {
 	font-family: 'Montserrat', sans-serif;
+}
+
+#landing-section {
+	display: grid; 
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }

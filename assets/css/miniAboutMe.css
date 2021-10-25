@@ -1,0 +1,44 @@
+/* The CSS in this file will be for the miniAboutMe Section */
+
+.title {
+	font-weight: bold;
+}
+
+.paragraph-div-mini-about-me {
+	margin: 0 3% 0 3%;
+}
+
+.follow-me-area {
+	margin-top: 50px;
+}
+
+.about-link {
+	color: #333;
+}
+
+.about-link:hover {
+	color: #1d2abf;
+}
+
+#bar {
+	border: 1px solid black;
+	width: 286px;
+	margin: 10px 0px 28px calc((100% - 344px) * 0.5)
+}
+
+
+.follow-me-div {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 0 10% 0 3%;
+}
+
+.icon-area {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
