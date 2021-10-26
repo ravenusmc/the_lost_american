@@ -2,11 +2,19 @@
 
 #main-video-section {
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	border: 2px solid black;
 	margin: 50px 10% 50px 10%;
+}
+
+.title {
+	font-weight: bold;
+	font-size: 3em;
+}
+
+.video_title {
+	font-size: 2em;
 }
 
 

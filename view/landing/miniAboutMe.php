@@ -22,9 +22,15 @@
 		<div class='follow-me-div'>
 			<h3 class='center'>Follow Me</h3>
 			<div class='icon-area'>
-				<i class="ri-pencil-line ri-3x"></i>
-				<i class="ri-youtube-line ri-3x"></i>
-				<i class="ri-twitter-line ri-3x"></i>
+				<a class="navbar-item" href="https://medium.com/@Lost_American1">
+					<i class="ri-pencil-line ri-3x"></i>
+				</a>
+				<a class="navbar-item" href="https://medium.com/@Lost_American1">
+					<i class="ri-youtube-line ri-3x"></i>
+				</a>
+				<a class="navbar-item" href="https://twitter.com/Lost_American1">
+					<i class="ri-twitter-line ri-3x"></i>
+				</a>
 			</div>
 		</div>
 		<div id='bar'></div>
