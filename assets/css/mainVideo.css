@@ -5,7 +5,7 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	margin: 50px 10% 50px 10%;
+	margin: 50px 10% 10px 10%;
 }
 
 .title {
@@ -15,6 +15,11 @@
 
 .video_title {
 	font-size: 2em;
+}
+
+hr {
+  border: 1px solid #333;
+  border-radius: 50px;
 }
 
 

@@ -1,5 +1,9 @@
 /* The CSS in this file will be for the video section */
 
+#video-section {
+	border-right: 2px solid black;
+}
+
 .video-div {
 	display: flex;
 	flex-direction: column;
