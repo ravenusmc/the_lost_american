@@ -23,5 +23,15 @@ hr {
 }
 
 
+@media only all and (max-width: 900px){
+
+	iframe {
+		height: 275px; 
+		width: 350px; 
+	}
+	
+}
+
+
 
 

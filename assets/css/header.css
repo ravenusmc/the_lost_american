@@ -12,3 +12,16 @@ section {
 .sub_title {
 	font-size: 30px;
 }
+
+@media only all and (max-width: 900px){
+
+	.main_title {
+		font-size: 82px;
+		text-transform: uppercase;
+	}
+
+	.sub_title {
+		font-size: 20px;
+	}
+	
+}
