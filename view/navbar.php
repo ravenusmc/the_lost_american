@@ -24,3 +24,6 @@
     </div>
   </div>
 </nav>
+
+<!-- Links for JS -->
+<script src="./assets/javascript/navbar.js"></script>
