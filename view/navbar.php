@@ -25,5 +25,5 @@
   </div>
 </nav>
 
-<!-- Links for JS -->
+<!-- Links for Javascript -->
 <script src="./assets/javascript/navbar.js"></script>
